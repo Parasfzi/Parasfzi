@@ -68,11 +68,11 @@ A collection of small AI-based utilities and automation scripts.
 
 ## Portfolio
 
-🔗 https://portfolio-paras-pawars-projects.vercel.app/
+🔗 https://paraspawar.vercel.app/
 
 ---
 
 ## Contact
 
 - GitHub: https://github.com/Parasfzi
-- Email: (add your email here)
+- Email: pawarparas855@gmail.com

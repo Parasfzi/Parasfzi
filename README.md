@@ -68,7 +68,7 @@ A collection of small AI-based utilities and automation scripts.
 
 ## Portfolio
 
-🔗 https://paraspawar.vercel.app/
+🔗 paraspawar.in
 
 ---
 
